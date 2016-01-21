@@ -10,6 +10,7 @@ enabled:
 disabled:
   - trim_array_spaces
   - concat_without_spaces
+  - eof_ending
 
 finder:
   name:

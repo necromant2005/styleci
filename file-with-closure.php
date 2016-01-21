@@ -1,6 +1,6 @@
 <?php
 
-$foo = function($a) {
+$foo = function ($a) {
     echo $a . PHP_EOL;
 };
 
